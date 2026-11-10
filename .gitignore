@@ -1,0 +1,19 @@
+# KiCad local history / backups / caches
+.history/
+*-backups/
+fp-info-cache
+*.kicad_prl
+*.lck
+_autosave-*
+*.bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# Archive duplicates of files already tracked
+F1_PID_Driver_V1.zip
+gerber_to_order.rar
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
